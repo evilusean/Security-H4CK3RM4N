@@ -1,6 +1,10 @@
 TryHackMe : 
 https://tryhackme.com/
 https://tryhackme.com/room/ohsint
+HackTheBox :
+https://www.hackthebox.com/
+MetaSplotable on Virtual Box (intentionally vulnerable machine to attempt to break into, host your own network on a VM) :
+https://docs.rapid7.com/metasploit/metasploitable-2/
 
 Cisco Packet Tracer (simulate networks, connect devices, practice) :
 https://learningnetwork.cisco.com/s/question/0D53i00000Kt599CAB/download-packet-tracer
@@ -20,6 +24,8 @@ https://portswigger.net/burp
 
 How to Learn Hacking (2025) - a Practical Guide :
 https://www.youtube.com/watch?v=iCbOV8p6tD4
+NetworkChuck - the hacker’s roadmap (how to get started in IT in 2025) :
+https://www.youtube.com/watch?v=5xWnmUEi1Qw
 
 Overthewire - Bandit = CTF for learning linux, I already know most of this, but cool site nonetheless :
 https://overthewire.org/wargames/bandit/
