@@ -5,9 +5,18 @@ https://tryhackme.com/room/ohsint
 Cisco Packet Tracer (simulate networks, connect devices, practice) :
 https://learningnetwork.cisco.com/s/question/0D53i00000Kt599CAB/download-packet-tracer
 https://www.netacad.com/cisco-packet-tracer
-Wireshark :
-https://www.wireshark.org/
 
+Tools :
+Kali Linux (Metasploit Framework, Nmap, Wireshark, Aircrack-ng, John the Ripper, Burp Suite, Hydra, Maltego, SQLMap, Hashcat, Nessus, Nikto) :
+https://www.kali.org/get-kali/#kali-platforms
+https://www.kali.org/docs/
+Wireshark (scans for packets) :
+https://www.wireshark.org/
+NMap (scans for open ports/OS's/Services :
+https://nmap.org/
+https://nmap.org/docs.html
+Burp Suite :
+https://portswigger.net/burp
 
 How to Learn Hacking (2025) - a Practical Guide :
 https://www.youtube.com/watch?v=iCbOV8p6tD4
