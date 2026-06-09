@@ -72,8 +72,9 @@ Blue Hammer - Red Sun - Undefend - YellowKey - GreenPlasma - MiniPlasma Proof of
 https://github.com/Nightmare-Eclipse/YellowKey
 https://gitlab.com/nightmare-eclipse/RedSun
 
-
-
+Linux Privilege Escalation 'nf_tables' and 'systemd' - Still need to locally have machine :
+https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/
+https://nvd.nist.gov/vuln/detail/CVE-2026-23111
 
 
 
