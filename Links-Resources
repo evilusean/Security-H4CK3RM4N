@@ -76,7 +76,11 @@ Linux Privilege Escalation 'nf_tables' and 'systemd' - Still need to locally hav
 https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/
 https://nvd.nist.gov/vuln/detail/CVE-2026-23111
 
-
+OSINT :
+OSINT 2026: How to Gather All the Info You’ll Ever Need on Anyone :
+https://www.youtube.com/watch?v=6PdjK9kuTD0
+Sherlock (username 300+ sites check) :
+https://github.com/sherlock-project/sherlock
 
 
 
